@@ -2,7 +2,7 @@
 layout: default
 title: My New Page
 ---
-# Main section
+# My New Page
 
 ## This is the first header!
 This is a piece of regular text!
@@ -11,5 +11,4 @@ This is a piece of regular text!
 This is another piece of regular text!
 
 # Links to the  headings above
-[Link to the sample section](#main-section).
-```
+[Back to Top](#My-New-Page).
