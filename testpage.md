@@ -10,7 +10,7 @@ This is a piece of regular text!
 ## This is the second header!
 This is another piece of regular text!
 
-[An AI-generated image of a dog](/assets/images/DogReflectionInWater.png)
+![An AI-generated image of a dog](/assets/images/DogReflectionInWater.png)
 
 > A piece of quoted text
 
