@@ -57,6 +57,6 @@ Some emojis!\
 > This is a caution statement!
 
 # Links to the headings above
-[Back to Top](#My-Test-Page).
+[Back to Top](#This-is-the-first-header!).
 
 <!-- This content will not appear in the rendered Markdown -->
