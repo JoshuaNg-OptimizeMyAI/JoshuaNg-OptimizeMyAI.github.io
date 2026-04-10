@@ -39,8 +39,7 @@ Some emojis!\
 
 "To display images on GitHub Pages, you must upload the image files to your repository and reference them using relative paths or absolute URLs."[^1]
 
-[^1]: Google AI Overview.  
-Generated on 4/10/26.
+[^1]: Google AI Overview. Generated on 4/10/26.
 
 > [!NOTE]
 > This is a note!
